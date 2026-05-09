@@ -1,5 +1,5 @@
 # API vascaína.
-
+![VASCO](gifs_postman/gif_vasco.gif)
 
 ## Descrição:
 API REST para gerenciamento do elenco do Clube de Regatas Vasco da Gama.
